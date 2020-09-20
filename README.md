@@ -7,10 +7,10 @@ I am also a graduate student of the [MSc in Data Science](https://datascience.au
 
 My work-related / scientific interests involve:
 - machine learning
+- natural language processing (NLP)
 - software engineering
-- statistics
 - open-source software
-- Natural Language Processing (NLP)
+- statistics
 
 My life-long interests include:
 - hiking :hiking_boot:
@@ -19,13 +19,9 @@ My life-long interests include:
 - cooking :man_cook:
 - travelling :airplane: 
 
-
-<!-- Actual text -->
-
 You can also find me on: [![LinkedIn][1.1]][1]
 
 <!-- Icons -->
-
 [1.1]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
 <!-- Links to your social media accounts -->
