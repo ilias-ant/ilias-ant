@@ -1,3 +1,4 @@
+
 Hi there 👋,
 
 My name is **Ilias Antonopoulos** and i work as a Data Scientist in Athens, Greece.
@@ -14,8 +15,21 @@ My work-related / scientific interests involve:
 My life-long interests include:
 - hiking :hiking_boot:
 - literature :book:
-- non-fiction reading :books:
+- non-fiction reading :books: ([this is](https://en.wikipedia.org/wiki/Why_Nations_Fail) one of my favourite books!)
 - cooking :man_cook:
+- travelling :airplane: 
+
+
+<!-- Actual text -->
+
+You can also find me on: [![LinkedIn][1.1]][1]
+
+<!-- Icons -->
+
+[1.1]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+<!-- Links to your social media accounts -->
+[1]: https://www.linkedin.com/in/ilias-ant/
 
 <!--
 **ilias-ant/ilias-ant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
