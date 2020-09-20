@@ -1,12 +1,13 @@
 Hi there 👋,
 
-My name is **Ilias Antonopoulos** and i work as a Data Scientist.
+My name is **Ilias Antonopoulos** and i work as a Data Scientist in Athens, Greece.
 
 I am also a graduate student of the [MSc in Data Science](https://datascience.aueb.gr/) @ Athens University of Economics and Business (AUEB).
 
 My work-related / scientific interests involve:
 - machine learning
 - software engineering
+- statistics
 - open-source software
 - Natural Language Processing (NLP)
 
