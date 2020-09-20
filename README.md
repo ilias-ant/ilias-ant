@@ -1,4 +1,6 @@
-### Hi there 👋
+Hi there 👋,
+
+My name is Ilias Antonopoulos and i work as a Data Scientist. I am also a graduate student of the [MSc in Data Science](https://datascience.aueb.gr/) @ Athens University of Economics and Business (AUEB).
 
 <!--
 **ilias-ant/ilias-ant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
