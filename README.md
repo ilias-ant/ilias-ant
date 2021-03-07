@@ -18,9 +18,7 @@ My life-long interests include:
 - cooking :man_cook:
 - travelling :airplane: 
 
-Currently, i am - and will be for the best part of the year - focused on NLP and Deep Learning theory & applications. 🌱
-
-If time permits, i would like to pick up a new programming language (Go or Rust?) around summer.
+Currently, i am - and will be for the best part of the year - focused on NLP and Deep Learning theory & applications. If time permits, i would like to pick up a new programming language (Go or Rust?) around summer. 🌱
 
 You can also find me on: [![LinkedIn][1.1]][1]
 
