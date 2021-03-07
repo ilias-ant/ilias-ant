@@ -14,12 +14,13 @@ My work-related / scientific interests involve:
 
 My life-long interests include:
 - hiking :hiking_boot:
-- literature :book:
-- non-fiction reading :books: ([this is](https://en.wikipedia.org/wiki/Why_Nations_Fail) one of my favourite books!)
+- literature & non-fiction reading :books: ([This](https://en.wikipedia.org/wiki/A_Brief_History_of_Seven_Killings) and also [this](https://en.wikipedia.org/wiki/Why_Nations_Fail) are two of my favourite books respectively <3)
 - cooking :man_cook:
 - travelling :airplane: 
 
-Currently, i am - and will be for the best part of the year - focused on NLP applications and building comprehension on Deep Learning theory. 🌱
+Currently, i am - and will be for the best part of the year - focused on NLP and Deep Learning theory & applications. 🌱
+
+If time permits, i would like to pick up a new programming language (Go or Rust?) around summer.
 
 You can also find me on: [![LinkedIn][1.1]][1]
 
