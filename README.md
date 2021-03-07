@@ -3,14 +3,14 @@ Hi there 👋,
 
 My name is **Ilias Antonopoulos** and i work as a Machine Learning Engineer in Athens, Greece.
 
-I am also currently a graduate student of the [MSc in Data Science](https://datascience.aueb.gr/) @ Athens University of Economics and Business ([AUEB](https://www.aueb.gr/en)).
+I am also a graduate student of the [MSc in Data Science](https://datascience.aueb.gr/) @ Athens University of Economics and Business ([AUEB](https://www.aueb.gr/en)).
 
 My work-related / scientific interests involve:
-- machine learning
+- machine-learning applications
 - natural language processing (NLP)
 - software engineering
-- open-source software
 - statistics
+- open-source software
 
 My life-long interests include:
 - hiking :hiking_boot:
@@ -18,6 +18,8 @@ My life-long interests include:
 - non-fiction reading :books: ([this is](https://en.wikipedia.org/wiki/Why_Nations_Fail) one of my favourite books!)
 - cooking :man_cook:
 - travelling :airplane: 
+
+Currently, i am - and will be for the best part of the year - focused on NLP applications and building comprehension on Deep Learning theory. 🌱
 
 You can also find me on: [![LinkedIn][1.1]][1]
 
