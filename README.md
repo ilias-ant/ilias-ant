@@ -7,9 +7,7 @@ I am also a graduate student of the [MSc in Data Science](https://datascience.au
 
 My work-related / scientific interests involve:
 - machine-learning applications
-- natural language processing (NLP)
 - software engineering
-- statistics
 - open-source software
 
 My life-long interests include:
