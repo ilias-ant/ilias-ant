@@ -17,7 +17,7 @@ My life-long interests include:
 - travelling :airplane: 
 - photography :camera:
 
-Currently, i am - and will be for the best part of the year - focused on NLP and applications.
+Currently, i am - and will be for the best part of the year - focused on Deep Learning, NLP and applications.
 
 Books i'm reading at the time:
 - [The Pragmatic Programmer, by David Thomas, Andrew Hunt](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/)
