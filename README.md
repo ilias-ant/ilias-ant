@@ -3,7 +3,7 @@ Hi there 👋,
 
 My name is **Ilias Antonopoulos** and i work as a Machine Learning Engineer in Athens, Greece.
 
-I am also a graduate student of the [MSc in Data Science](https://datascience.aueb.gr/) @ Athens University of Economics and Business ([AUEB](https://www.aueb.gr/en)).
+I have recently graduated from the [MSc in Data Science](https://datascience.aueb.gr/) @ Athens University of Economics and Business ([AUEB](https://www.aueb.gr/en)).
 
 My work-related / scientific interests involve:
 - machine-learning applications
