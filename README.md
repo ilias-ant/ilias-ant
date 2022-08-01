@@ -19,10 +19,11 @@ My life-long interests include:
 
 Currently, i am - and will be for the best part of the year - focused on Deep Learning, NLP and applications.
 
-Books i'm reading at the time:
-- [The Pragmatic Programmer, by David Thomas, Andrew Hunt](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/)
-- [Deep Learning, by Ian Goodfellow, Yoshua Bengio and Aaron Courville](https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618)
+Books i'm currently reading:
 - [The Power Broker: Robert Moses and the Fall of New York, by Robert Caro](https://en.wikipedia.org/wiki/The_Power_Broker)
+
+Online courses i'm currently taking:
+- [Docker & Kubernetes: The Practical Guide [2022 Edition]](https://www.udemy.com/course/docker-kubernetes-the-practical-guide/)
 
 You can also find me on: [![LinkedIn][1.1]][1]
 
