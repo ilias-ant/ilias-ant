@@ -13,7 +13,6 @@ My work-related / scientific interests involve:
 My life-long interests include:
 - climbing  :climbing:
 - literature & non-fiction reading :books: ([This](https://en.wikipedia.org/wiki/A_Brief_History_of_Seven_Killings) and also [this](https://en.wikipedia.org/wiki/Why_Nations_Fail) are two of my favourite books respectively <3)
-- cooking :man_cook:
 - travelling :airplane: 
 - photography :camera:
 
