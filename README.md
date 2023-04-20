@@ -22,7 +22,7 @@ Books i'm currently reading:
 - [The Power Broker: Robert Moses and the Fall of New York, by Robert Caro](https://en.wikipedia.org/wiki/The_Power_Broker)
 
 Online courses i'm currently taking:
-- [Docker & Kubernetes: The Practical Guide [2022 Edition]](https://www.udemy.com/course/docker-kubernetes-the-practical-guide/)
+- [Docker & Kubernetes: The Practical Guide [2023 Edition]](https://www.udemy.com/course/docker-kubernetes-the-practical-guide/)
 
 You can also find me on: [![LinkedIn][1.1]][1]
 
