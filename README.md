@@ -1,7 +1,7 @@
 
 Hi there 👋,
 
-My name is **Ilias Antonopoulos** and i work as a Lead Data Scientist in Athens, Greece.
+My name is **Ilias Antonopoulos** and i work as a Machine Learning Engineer in Athens, Greece.
 
 I have recently graduated from the [MSc in Data Science](https://datascience.aueb.gr/) @ Athens University of Economics and Business ([AUEB](https://www.aueb.gr/en)).
 
@@ -16,7 +16,7 @@ My life-long interests include:
 - travelling :airplane: 
 - photography :camera:
 
-Currently, i am - and will be for the best part of the year - focused on Deep Learning, NLP and applications.
+Currently, i am - and will be for the best part of the year - focused on time-series forecasting and NLP applications.
 
 Books i'm currently reading:
 - [The Power Broker: Robert Moses and the Fall of New York, by Robert Caro](https://en.wikipedia.org/wiki/The_Power_Broker)
