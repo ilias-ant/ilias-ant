@@ -16,13 +16,15 @@ My life-long interests include:
 - travelling :airplane: 
 - photography :camera:
 
-Currently, i am - and will be for the best part of the year - focused on time-series forecasting and NLP applications.
+Currently, i am - and will be for the best part of the year - focused on MLOps and time-series forecasting.
 
 Books i'm currently reading:
 - [The Power Broker: Robert Moses and the Fall of New York, by Robert Caro](https://en.wikipedia.org/wiki/The_Power_Broker)
+- [Designing Machine Learning Systems, by Chip Huyen](https://learning.oreilly.com/library/view/designing-machine-learning/9781098107956/)
 
 Online courses i'm currently taking:
-- [Docker & Kubernetes: The Practical Guide [2023 Edition]](https://www.udemy.com/course/docker-kubernetes-the-practical-guide/)
+- [Docker & Kubernetes](https://www.udemy.com/course/docker-kubernetes-the-practical-guide/)
+- [FastAPI](https://www.udemy.com/course/completefastapi/)
 
 You can also find me on: [![LinkedIn][1.1]][1]
 
