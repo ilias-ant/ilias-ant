@@ -1,7 +1,7 @@
 
 Hi there 👋,
 
-My name is **Ilias Antonopoulos** and i work as a Machine Learning Engineer in Athens, Greece.
+My name is **Ilias Antonopoulos** and i work as a Machine Learning Engineer @ [Agroknow](https://agroknow.com/) in Athens, Greece.
 
 I have recently graduated from the [MSc in Data Science](https://datascience.aueb.gr/) @ Athens University of Economics and Business ([AUEB](https://www.aueb.gr/en)).
 
@@ -18,6 +18,10 @@ My life-long interests include:
 
 Currently, i am - and will be for the best part of the year - focused on MLOps and time-series forecasting.
 
+ML & software engineering blog posts i've written over time:
+
+- [adversarial validation: can i trust my validation dataset?](https://ilias-ant.github.io/blog/adversarial-validation/)
+
 Books i'm currently reading:
 - [The Power Broker: Robert Moses and the Fall of New York, by Robert Caro](https://en.wikipedia.org/wiki/The_Power_Broker)
 - [Designing Machine Learning Systems, by Chip Huyen](https://learning.oreilly.com/library/view/designing-machine-learning/9781098107956/)
@@ -25,14 +29,6 @@ Books i'm currently reading:
 Online courses i'm currently taking:
 - [Docker & Kubernetes](https://www.udemy.com/course/docker-kubernetes-the-practical-guide/)
 - [FastAPI](https://www.udemy.com/course/completefastapi/)
-
-You can also find me on: [![LinkedIn][1.1]][1]
-
-<!-- Icons -->
-[1.1]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
-<!-- Links to your social media accounts -->
-[1]: https://www.linkedin.com/in/ilias-ant/
 
 <!--
 **ilias-ant/ilias-ant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
