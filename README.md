@@ -23,11 +23,9 @@ ML & software engineering blog posts i've written over time:
 - [adversarial validation: can i trust my validation dataset?](https://ilias-ant.github.io/blog/adversarial-validation/)
 
 Books i'm currently reading:
-- [The Power Broker: Robert Moses and the Fall of New York, by Robert Caro](https://en.wikipedia.org/wiki/The_Power_Broker)
 - [Designing Machine Learning Systems, by Chip Huyen](https://learning.oreilly.com/library/view/designing-machine-learning/9781098107956/)
 
 Online courses i'm currently taking:
-- [Docker & Kubernetes](https://www.udemy.com/course/docker-kubernetes-the-practical-guide/)
 - [FastAPI](https://www.udemy.com/course/completefastapi/)
 
 <!--
