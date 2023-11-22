@@ -3,7 +3,7 @@ Hi there 👋,
 
 My name is **Ilias Antonopoulos** and i work as a Machine Learning Engineer @ [Agroknow](https://agroknow.com/) in Athens, Greece.
 
-I have recently graduated from the [MSc in Data Science](https://datascience.aueb.gr/) @ Athens University of Economics and Business ([AUEB](https://www.aueb.gr/en)).
+I am a graduate of [MSc in Data Science](https://datascience.aueb.gr/) from Athens University of Economics and Business ([AUEB](https://www.aueb.gr/en)), while my undergraduate studies have been Mathematics in the National and Kapodistrian University of Athens.
 
 My work-related / scientific interests involve:
 - machine learning systems
