@@ -16,8 +16,6 @@ My life-long interests include:
 - travelling :airplane: 
 - photography :camera:
 
-Currently, i am - and will be for the best part of the year - focused on MLOps and time-series forecasting.
-
 ML & software engineering blog posts i've written over time:
 
 - [adversarial validation: can i trust my validation dataset?](https://ilias-ant.github.io/blog/adversarial-validation/)
