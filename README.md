@@ -23,6 +23,7 @@ ML & software engineering blog posts i've written over time:
 Books i'm currently reading:
 - [Designing Machine Learning Systems, by Chip Huyen](https://learning.oreilly.com/library/view/designing-machine-learning/9781098107956/)
 - [The Ideal Team Player: How to Recognize and Cultivate The Three Essential Virtues](https://www.tablegroup.com/product/ideal-team-player/)
+- [The Five Dysfunctions of a Team](https://www.tablegroup.com/product/dysfunctions/)
 
 Online courses i'm currently taking:
 - [FastAPI](https://www.udemy.com/course/completefastapi/)
