@@ -18,15 +18,16 @@ My life-long interests include:
 
 ML & software engineering blog posts i've written over time:
 
-- [adversarial validation: can i trust my validation dataset?](https://ilias-ant.github.io/blog/adversarial-validation/)
+- [Adversarial Validation: can i trust my validation dataset?](https://ilias-ant.github.io/blog/adversarial-validation/)
+- [Do we even need ML?](https://ilias-ant.github.io/blog/do-we-even-need-ml/)
 
-Books i'm currently reading:
-- [Designing Machine Learning Systems, by Chip Huyen](https://learning.oreilly.com/library/view/designing-machine-learning/9781098107956/)
-- [The Ideal Team Player: How to Recognize and Cultivate The Three Essential Virtues](https://www.tablegroup.com/product/ideal-team-player/)
+Interesting books i have read recently:
+
+- [Product-Led Growth: How to Build a Product That Sells Itself](https://productled.com/book/product-led-growth)
+- [Deep Work: Rules for Focused Success in a Distracted World](https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692)
 - [The Five Dysfunctions of a Team](https://www.tablegroup.com/product/dysfunctions/)
-
-Online courses i'm currently taking:
-- [FastAPI](https://www.udemy.com/course/completefastapi/)
+- [The Ideal Team Player: How to Recognize and Cultivate The Three Essential Virtues](https://www.tablegroup.com/product/ideal-team-player/)
+- [Designing Machine Learning Systems, by Chip Huyen](https://learning.oreilly.com/library/view/designing-machine-learning/9781098107956/)
 
 <!--
 **ilias-ant/ilias-ant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
