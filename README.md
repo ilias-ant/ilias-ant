@@ -21,7 +21,7 @@ ML & software engineering blog posts i've written over time:
 
 Interesting books i have read recently:
 
-- [Hands-On Large Language Models](https://www.oreilly.com/library/view/hands-on-large-language/9781098150952/)
+- [Hands-On Large Language Models, by Jay Alammar, Maarten Grootendorst](https://www.oreilly.com/library/view/hands-on-large-language/9781098150952/)
 - [Designing Machine Learning Systems, by Chip Huyen](https://learning.oreilly.com/library/view/designing-machine-learning/9781098107956/)
 - [Product-Led Growth: How to Build a Product That Sells Itself](https://productled.com/book/product-led-growth)
 - [Deep Work: Rules for Focused Success in a Distracted World](https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692)
