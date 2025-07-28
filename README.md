@@ -1,7 +1,7 @@
 
 Hi there 👋,
 
-My name is **Ilias Antonopoulos** and Ι am an experienced (7+ years) Machine Learning Engineer in B2B and in the domains of e-commerce, food safety, fintech and adtech who loves learning new things everyday, leading by example and building data-driven applications.
+My name is **Ilias Antonopoulos** and Ι am an experienced (7+ years) Machine Learning Engineer in B2B and in the e-commerce, food safety, fintech and adtech domains who loves learning new things everyday, leading by example and building data-driven applications.
 
 My work-related / scientific interests involve:
 - machine learning systems
