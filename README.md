@@ -1,3 +1,4 @@
+<a href="https://smartf.in/" target="_blank"><img alt="The Stock Analysis Platform that helps you find smart investments" src="https://img.shields.io/badge/-Smartfin-01509A?logo=nones&style=for-the-badge" /></a> 
 
 Hi there 👋,
 
