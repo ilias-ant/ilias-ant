@@ -20,8 +20,8 @@ ML & software engineering blog posts i've written over time:
 - [Adversarial Validation: can i trust my validation dataset?](https://ilias-ant.github.io/blog/adversarial-validation/)
 - [Do we even need ML?](https://ilias-ant.github.io/blog/do-we-even-need-ml/)
 
-Interesting books i have read recently:
-
+Nice books I've read recently:
+- [AI Engineering](https://www.oreilly.com/library/view/ai-engineering/9781098166298/)
 - [Hands-On Large Language Models](https://www.oreilly.com/library/view/hands-on-large-language/9781098150952/)
 - [Designing Machine Learning Systems](https://learning.oreilly.com/library/view/designing-machine-learning/9781098107956/)
 - [Product-Led Growth: How to Build a Product That Sells Itself](https://productled.com/book/product-led-growth)
