@@ -2,7 +2,7 @@
 
 Hi there 👋,
 
-My name is **Ilias Antonopoulos** and Ι am an experienced (7+ years) Machine Learning Engineer in B2B and in the e-commerce, food safety, fintech and adtech domains who loves learning new things everyday, leading by example and building data-driven applications.
+My name is **Ilias Antonopoulos** and Ι am an experienced (8+ years) Senior Machine Learning Engineer in B2B and in adtech, fintech, agritech and e-commerce domains who loves learning new things everyday, leading by example and building data-driven applications.
 
 My work-related / scientific interests involve:
 - machine learning systems
@@ -21,6 +21,7 @@ ML & software engineering blog posts i've written over time:
 - [Do we even need ML?](https://ilias-ant.github.io/blog/do-we-even-need-ml/)
 
 Nice books I've read recently:
+- [Build a Large Language Model (From Scratch) ](https://www.manning.com/books/build-a-large-language-model-from-scratch) (currently reading)
 - [AI Engineering](https://www.oreilly.com/library/view/ai-engineering/9781098166298/)
 - [Hands-On Large Language Models](https://www.oreilly.com/library/view/hands-on-large-language/9781098150952/)
 - [Designing Machine Learning Systems](https://learning.oreilly.com/library/view/designing-machine-learning/9781098107956/)
