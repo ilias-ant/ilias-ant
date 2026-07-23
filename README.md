@@ -1,5 +1,3 @@
-<a href="https://smartf.in/" target="_blank"><img alt="The Stock Analysis Platform that helps you find smart investments" src="https://img.shields.io/badge/-Smartfin-01509A?logo=nones&style=for-the-badge" /></a> 
-
 Hi there 👋,
 
 My name is **Ilias Antonopoulos** and Ι am an experienced (8+ years) Senior Machine Learning Engineer in B2B and in adtech, fintech, agritech and e-commerce domains who loves learning new things everyday, leading by example and building data-driven applications.
