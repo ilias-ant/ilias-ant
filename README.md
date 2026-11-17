@@ -15,12 +15,12 @@ My life-long interests include:
 
 ML & software engineering blog posts i've written over time:
 
-- [Adversarial Validation: can i trust my validation dataset?](https://ilias-ant.github.io/blog/adversarial-validation/)
-- [Do we even need ML?](https://ilias-ant.github.io/blog/do-we-even-need-ml/)
 - [The unreasonable effectiveness of AI](https://artisanml.substack.com/p/the-unreasonable-effectiveness-of)
 - [The Art of PR Babysitting](https://artisanml.substack.com/p/the-art-of-pr-babysitting)
+- [Do we even need ML?](https://ilias-ant.github.io/blog/do-we-even-need-ml/)
+- [Adversarial Validation: can i trust my validation dataset?](https://ilias-ant.github.io/blog/adversarial-validation/)
 
-Nice books I've read recently:
+Interesting books I've read recently:
 - [An Illustrated Guide to AI Agents](https://www.oreilly.com/library/view/an-illustrated-guide/9798341662681/) (currently reading)
 - [Build a Large Language Model (From Scratch) ](https://www.manning.com/books/build-a-large-language-model-from-scratch) (currently reading)
 - [AI Engineering](https://www.oreilly.com/library/view/ai-engineering/9781098166298/)
